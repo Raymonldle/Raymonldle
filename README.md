@@ -1,6 +1,6 @@
 ## Hello everyone!
 
-My name is Raymond Le and I'm currently working with the <ins> <font color="blue">Lee Jang Lab</font> </ins> at UCI to learn more about mapping isotopes through R studios. I am excited for any opportunity to further my skills in the bioinformatics field, so feel free to message me! :)
+My name is Raymond Le and I'm currently working with the <ins><font color="blue">Lee Jang Lab</font></ins> at UCI to learn more about mapping isotopes through R studios. I am excited for any opportunity to further my skills in the bioinformatics field, so feel free to message me! :)
 <!--
 **Raymonldle/Raymonldle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
